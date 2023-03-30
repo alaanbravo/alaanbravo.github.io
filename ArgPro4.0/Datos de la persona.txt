@@ -1,0 +1,10 @@
+Hola, mi nombre es
+Randall Gris
+Mi correo electrónico es
+randall.gray@example.com
+Mi cumpleaños es
+4/5/1946
+Mi dirección es
+1244 Harrison Ct
+Mi número de teléfono es
+(399) 237-4117
